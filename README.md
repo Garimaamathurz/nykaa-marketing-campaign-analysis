@@ -1,7 +1,7 @@
 # Nykaa Marketing Campaign Analysis (Marketing Domain) | Power BI  
 
 ## 📊 Project Overview  
-This project presents an interactive Power BI dashboard designed to analyze the performance of marketing campaigns across different channels. It focuses on evaluating campaign effectiveness, customer engagement, and return on investment (ROI) to support data-driven marketing decisions.
+This project presents an interactive Power BI dashboard to analyze marketing campaign performance across multiple channels. It enables evaluation of conversion rates, customer engagement, and return on investment (ROI) to identify high-performing campaigns and optimize marketing strategy.
 
 ## 🎯 Business Objective  
 The objective of this project is to analyze marketing campaign data to identify high-performing channels, optimize campaign strategies, and improve overall marketing ROI.
@@ -12,10 +12,10 @@ The objective of this project is to analyze marketing campaign data to identify 
 - DAX (Data Modeling & KPI Calculation)  
 
 ## 📈 Key Insights  
-• Certain marketing channels deliver higher conversion rates, indicating more effective customer targeting  
-• High-performing campaigns contribute a significant share of total revenue  
-• Customer engagement varies across channels, highlighting opportunities for optimization  
-• ROI analysis shows that a few campaigns generate maximum returns, suggesting focused investment strategy  
+• A small number of campaigns contribute a major share of total revenue, indicating high ROI concentration  
+• Certain marketing channels deliver better conversion efficiency, suggesting optimized budget allocation opportunities  
+• Customer engagement varies significantly across channels, highlighting the need for targeted campaign strategies  
+• Campaign performance trends indicate opportunities to improve underperforming channels and maximize returns   
 
 ## 📷 Dashboard Preview  
 
