@@ -20,7 +20,7 @@ The objective of this project is to analyze marketing campaign data to identify 
 ## 📷 Dashboard Preview  
 
 ### Campaign Overview  
-![Overview](Project_Overview)
+![Overview](Screenshots/Project_Overview)
 
 ## 🎥 Project Demo  
 [Watch Demo](https://bit.ly/4cVZJZl)
