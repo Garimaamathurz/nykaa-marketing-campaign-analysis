@@ -1,84 +1,35 @@
-# 📊 Nykaa Marketing Campaign Analysis
+# Nykaa Marketing Campaign Analysis (Marketing Domain) | Power BI  
 
-## 📸 Dashboard Preview
+## 📊 Project Overview  
+This project presents an interactive Power BI dashboard designed to analyze the performance of marketing campaigns across different channels. It focuses on evaluating campaign effectiveness, customer engagement, and return on investment (ROI) to support data-driven marketing decisions.
 
-### 1. Overview Dashboard
-![Overview](screenshots/dashboard1.png)
+## 🎯 Business Objective  
+The objective of this project is to analyze marketing campaign data to identify high-performing channels, optimize campaign strategies, and improve overall marketing ROI.
 
-### 2. KPI Section
-![KPI](screenshots/dashboard2.png)
+## 🛠 Tools Used  
+- Power BI  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Data Modeling & KPI Calculation)  
 
-### 3. Channel Performance
-![Channel](screenshots/dashboard3.png)
+## 📈 Key Insights  
+• Certain marketing channels deliver higher conversion rates, indicating more effective customer targeting  
+• High-performing campaigns contribute a significant share of total revenue  
+• Customer engagement varies across channels, highlighting opportunities for optimization  
+• ROI analysis shows that a few campaigns generate maximum returns, suggesting focused investment strategy  
 
-## 🔍 Project Overview
-This project analyzes marketing campaign performance data of Nykaa to evaluate the effectiveness of different channels and optimize marketing spend.
+## 📷 Dashboard Preview  
 
-Nykaa uses data-driven marketing strategies including influencer campaigns, seasonal sales, and personalized promotions to drive conversions and engagement. 
----
+### Campaign Overview  
+![Overview](Project_Overview)
 
-## 🎯 Objectives
-- Analyze campaign performance across channels
-- Identify high and low ROI campaigns
-- Optimize marketing spend
-- Track key KPIs for business decisions
+## 🎥 Project Demo  
+[Watch Demo](https://bit.ly/4cVZJZl)
 
----
+## ▶️ How to Use  
 
-## 📁 Dataset
-The dataset includes:
-- Campaign ID
-- Channel (Google, Facebook, Instagram)
-- Impressions
-- Clicks
-- Conversions
-- Revenue
-- Cost
-- Date
+1. Download the .pbix file  
+2. Open in Power BI Desktop  
+3. Use filters and slicers to explore campaign performance and insights  
 
----
-
-## 📊 Key KPIs
-- Total Revenue
-- Total Profit
-- Conversion Rate
-- CTR (Click-Through Rate)
-- CPC (Cost per Click)
-- CPA (Cost per Acquisition)
-- ROAS (Return on Ad Spend)
-
----
-
-## 📈 Dashboard Features
-- Channel-wise performance analysis
-- Campaign comparison
-- KPI summary cards
-- Time-based trends (Monthly/Yearly)
-- Interactive filters
-
----
-
-## 💡 Key Insights
-- Identified high-performing campaigns with strong ROAS
-- Found channels with high cost but low conversion efficiency
-- Observed trends in customer engagement over time
-- Suggested optimization strategies for marketing spend
-
----
-
-## 🛠 Tools Used
-- Power BI
-- Power Query
-- DAX
-
----
-
-## 🚀 Future Improvements
-- Integrate SQL for data extraction
-- Build automated pipelines
-- Add predictive analytics
-
----
-
-## 👩‍💻 Author
-Garima Mathur
+## 📁 Dataset  
+Dataset sourced from Kaggle and used for analysis and visualization purposes
